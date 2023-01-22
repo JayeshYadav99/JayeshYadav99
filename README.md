@@ -13,7 +13,7 @@ You can click the Preview link to take a look at your changes.
 My name is Jayesh Yadav and I am a software developer. On my GitHub, you will find a variety of projects that I have worked on, showcasing my skills and abilities as a developer. Whether you're a fellow developer, a hiring manager, or just someone looking for inspiration, I hope you find something here that interests you.
 
 ## Featured Projects
-- **[Endless-Running-Game---Beginner-Project](https://github.com/JayeshYadav99/Endless-Running-Game---Beginner-Project)** Are you ready to test your skills and have a good laugh at the same time? Look no further, "Avoid the Ravens" is the game for you!  
+- **[Endless-Running-Game---Beginner](https://github.com/JayeshYadav99/Endless-Running-Game---Beginner-Project)** Are you ready to test your skills and have a good laugh at the same time? Look no further, "Avoid the Ravens" is the game for you!  
 This is a JavaScript game where the player controls a character and tries to avoid obstacles represented by raven objects moving across the canvas. The game uses the canvas element to create the game board, and it uses JavaScript to update the game state and draw the game elements on the canvas.
 
 ## Skills and technologies
