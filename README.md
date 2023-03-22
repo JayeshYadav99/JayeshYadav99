@@ -1,41 +1,37 @@
-- 👋 Hi, I’m @JayeshYadav99
-- 👀 I’m interested in  Development & Software Development
-- 🌱 I’m currently learning C Plus Plus & Web Development
-- 📫 How to reach me on ****Email**** :jayeshyadav528@gmail.com
-                         
-<!---
-JayeshYadav99/JayeshYadav99 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-### Development is like participating in a hackathon with friends, it's a marathon, not a sprint. You'll have to work fast and work well together, with a good dose of creativity and a sense of humor. You'll be pushed to your limits and you'll probably end up pulling an all-nighter, but at the end of it all, you'll have something to be proud of, and a great story to tell. And if you don't win, just remember, "there's no such thing as a losing hackathon, only opportunities to learn and improve."
+<h1 align="center">Hi 👋, I'm Jayesh Yadav</h1>
+<h3 align="center">Navigating the Back-End Maze: An Exploration of the Logic-Driven World</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=jayeshyadav99&label=Profile%20views&color=0e75b6&style=flat" alt="jayeshyadav99" /> </p>
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jayeshyadav99" alt="jayeshyadav99" /></a> </p>
 
-# Welcome to my GitHub!
+<p align="left"> <a href="https://twitter.com/jayesh_dev_" target="blank"><img src="https://img.shields.io/twitter/follow/jayesh_dev_?logo=twitter&style=for-the-badge" alt="jayesh_dev_" /></a> </p>
 
-My name is Jayesh Yadav and I am a software developer. On my GitHub, you will find a variety of projects that I have worked on, showcasing my skills and abilities as a developer. Whether you're a fellow developer, a hiring manager, or just someone looking for inspiration, I hope you find something here that interests you.
+- 🔭 I’m currently working on [ShopLift](https://github.com/JayeshYadav99/ShopLift)
 
-## Featured Projects
-- **[Endless-Running-Game---Beginner](https://github.com/JayeshYadav99/Endless-Running-Game---Beginner-Project)** Are you ready to test your skills and have a good laugh at the same time? Look no further, "Avoid the Ravens" is the game for you!  
-This is a JavaScript game where the player controls a character and tries to avoid obstacles represented by raven objects moving across the canvas. The game uses the canvas element to create the game board, and it uses JavaScript to update the game state and draw the game elements on the canvas.
+- 🌱 I’m currently learning **Express js,templating engines**
 
-## Skills and technologies
-- List the skills and technologies that you have used in your projects, for example:
-  - C++
-  - JavaScript
-  - React
-  - SQL
+- 👯 I’m looking to collaborate on [Code Companion](https://github.com/JayeshYadav99/CodeCompanion)
 
+- 👨‍💻 All of my projects are available at [https://github.com/JayeshYadav99](https://github.com/JayeshYadav99)
 
-## Contact Me
-If you want to connect with me, drop me an email at jayeshyadav528@gmail.com.
+- 💬 Ask me about **C++,Javascript and Node.js**
 
-Thank you for visiting my GitHub! I hope you find my projects interesting and  informative.
+- 📫 How to reach me **jayeshyadav528@gmail.com**
 
-## Additional information
--All the projects are open-source and you are welcome to contribute by forking the repository and sending pull requests.
+- ⚡ Fun fact **Quiet minds hide great knowledge. Depth of intellect, the introvert's advantage.**
 
--Please use the issue tracker to report bugs or request features.
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/jayesh_dev_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="jayesh_dev_" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/yadavjayeshdev5892" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yadavjayeshdev5892" height="30" width="40" /></a>
+</p>
 
--Feel free to reach out to me if you have any questions or need help getting started with any of the projects.
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://appwrite.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/appwriteio/appwriteio-icon.svg" alt="appwrite" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://canvasjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/Hardik0307/Hardik0307/master/assets/canvasjs-charts.svg" alt="canvasjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://graphql.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://pugjs.org" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/pug.svg" alt="pug" width="40" height="40"/> </a> <a href="https://webpack.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"/> </a> <a href="https://zapier.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/zapier/zapier-icon.svg" alt="zapier" width="40" height="40"/> </a> </p>
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jayeshyadav99&show_icons=true&locale=en&layout=compact" alt="jayeshyadav99" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jayeshyadav99&show_icons=true&locale=en" alt="jayeshyadav99" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jayeshyadav99&" alt="jayeshyadav99" /></p>
