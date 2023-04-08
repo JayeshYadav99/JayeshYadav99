@@ -24,7 +24,7 @@
 
 <p align="left"> <a href="https://twitter.com/jayesh_dev_" target="blank"><img src="https://img.shields.io/twitter/follow/jayesh_dev_?logo=twitter&style=for-the-badge" alt="jayesh_dev_" /></a> </p>
 
-- 🔭 I’m currently working on [ShopLift](https://github.com/JayeshYadav99/ShopLift)
+
 
 - 🌱 I’m currently learning **Express js,templating engines**
 
