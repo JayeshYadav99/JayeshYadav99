@@ -27,13 +27,13 @@
 
 
 
-- 🌱 I’m currently learning **Express js,templating engines**
+- 🌱 I’m currently exploring **MERN STACK**
 
-- 👯 I’m looking to collaborate on [Code Companion](https://github.com/JayeshYadav99/CodeCompanion)
+- 👯 I’m looking to collaborate on [MERN INSIGHTS](https://github.com/JayeshYadav99/MERN-Insights)
 
 - 👨‍💻 All of my projects are available at [https://github.com/JayeshYadav99](https://github.com/JayeshYadav99)
 
-- 💬 Ask me about **C++,Javascript and Node.js**
+- 💬 Ask me about **C++,Javascript and MERN STACK**
 
 - 📫 How to reach me **jayeshyadav528@gmail.com**
 
