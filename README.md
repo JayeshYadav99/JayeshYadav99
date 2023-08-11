@@ -27,7 +27,7 @@
 
 
 
-- 🌱 I’m currently exploring **MERN STACK**
+- 🌱 I’m currently exploring **MERN STACK** and always open to **Hackathons**
 
 - 👯 I’m looking to collaborate on [MERN INSIGHTS](https://github.com/JayeshYadav99/MERN-Insights)
 
