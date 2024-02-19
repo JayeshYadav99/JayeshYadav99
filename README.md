@@ -27,9 +27,7 @@
 
 
 
-- 🌱 I’m currently exploring **MERN STACK** and always open to **Hackathons**
-
-- 👯 I’m looking to collaborate on [MERN INSIGHTS](https://github.com/JayeshYadav99/MERN-Insights)
+- 🌱 I’m currently exploring **Generative AI and LLMs** and always open to **Hackathons**
 
 - 👨‍💻 All of my projects are available at [https://github.com/JayeshYadav99](https://github.com/JayeshYadav99)
 
