@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jayesh Yadav</h1>
-<h3 align="center">Navigating the Back-End Maze: An Exploration of the Logic-Driven World</h3>
+<h3 align="center">Navigating the AI-Driven Realm: An Exploration of the Logic-Generated World</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jayeshyadav99&label=Profile%20views&color=0e75b6&style=flat" alt="jayeshyadav99" /> </p>
 
