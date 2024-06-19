@@ -37,6 +37,8 @@
 
 - ⚡ Fun fact **Quiet minds hide great knowledge. Depth of intellect, the introvert's advantage.**
 
+- - 🌐 Check out my portfolio at [Portfolio](portfolio-website-genai.vercel.app)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/jayesh_dev_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="jayesh_dev_" height="30" width="40" /></a>
